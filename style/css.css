@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(9, 7, 33);
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: #ede2d1;
+    margin-top: 40px;
+}
+p{
+    color: antiquewhite;
+}
+.table-striped{
+    color: antiquewhite;
+}
